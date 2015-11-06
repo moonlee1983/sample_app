@@ -40,6 +40,7 @@ group :test do
 	gem 'selenium-webdriver','2.0.0'
 	gem 'capybara','2.1.0'
 	gem 'zip'
+	gem 'factory_girl_rails','4.2.1'
 end
 group :produnction do
 	gem 'pg','0.15.1'
